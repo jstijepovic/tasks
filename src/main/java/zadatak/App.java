@@ -3,8 +3,8 @@ package zadatak;
 import java.util.Scanner;
 
 /**
- * Main Application for calculating the number of occurencies of 
- * choosen sign (fe I, a, B...)
+ * Main Application for calculating the number of occurrences of 
+ * chosen sign (fe I, a, B...)
  * 
  * Author
  * Janko Stijepovic

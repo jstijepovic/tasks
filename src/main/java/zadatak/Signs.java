@@ -5,6 +5,12 @@ import java.util.stream.Collectors;
 
 public class Signs {
 	
+	/**
+	 * * Calculate the number occurrences of character in given string
+	 * @param inputWord
+	 * @param c
+	 * @return the number of occurrences
+	 */
 	public static long NumberOfSigns(String inputWord, Character c) {
 		
 		// set initial value for number of occurencies
