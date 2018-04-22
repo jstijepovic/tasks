@@ -32,9 +32,6 @@ public class App
 			}						
 		} else {
 			System.out.println("No String was entered!!!!");			
-		}
-		
-		//Signs.NumberOfSigns(inputWord, c);	
-		
+		}		
 	}
 }
